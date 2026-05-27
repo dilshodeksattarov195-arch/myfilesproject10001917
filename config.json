@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricspelete",
+        "uuid": 4198230,
+        "checksum": "enksh"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
